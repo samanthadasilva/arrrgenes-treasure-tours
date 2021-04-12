@@ -63,6 +63,7 @@ body {
   grid-template-areas: "banner";
   color: #fff;
   font-size: 1.5rem;
+  background-color: #522806;
 }
 
 .banner img {
@@ -151,5 +152,4 @@ body {
 
 a:focus {
   outline-color: #fff;
-  background-color: #522806;
 }
